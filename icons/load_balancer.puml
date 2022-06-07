@@ -1,3 +1,6 @@
 @startuml
-sprite $load_balancer [84x84/16z] xS71000000CXXFdRZk9-rJ80000000300G
+sprite $load_balancer [84x84/16z] {
+xTQ5ZS0m44L15p2I-w_s65QACEiz_4yOcd3YDLDAAQM40P81yYow0VlyOVB3pGtumVUeeXFF_BynO-PRnt6KuoWiB3X8BgmsIY7Vp8fon_H1NYUNs-RLW9xv
+9bG3EYQKoOgY--fK0pfcdUo_gQ1CrecM2VRb7lLDrJHh_fplV4m-pA5lyjY_en-JFywClOzbpPLIIYaz0W
+}
 @enduml
